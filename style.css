@@ -1435,7 +1435,7 @@ a{
    flex-direction: row;
     font-size: 12px;
     font-weight: 600;
-    margin-left: -1rem;
+    margin-left: 10px;
 }
 
 .nav-items{

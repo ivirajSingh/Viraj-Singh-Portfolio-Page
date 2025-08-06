@@ -1408,16 +1408,14 @@ a{
 .container{
     width: 100%;  
     margin: 0, auto;
-    overflow-x: hidden;
 }
 
 .navbar{
-   overflow-x: hidden;
     display: flex;
     justify-content: space-between;
     align-items: center;
     padding-top: 1rem;
-    margin-left: -1rem;
+    margin-left: 1rem;
 }
 
 .logo-container{

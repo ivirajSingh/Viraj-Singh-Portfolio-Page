@@ -1420,7 +1420,7 @@ a{
     justify-content: space-between;
     align-items: center;
     /* padding-top: 1rem; */
-    margin-left: 4rem;
+    margin-left: 3rem;
 }
 
 .logo-container{
@@ -1434,6 +1434,7 @@ a{
 }
 
 .logo-text{
+   display: flex;
     font-size: 24px;
     font-weight: 600;
     margin-left: -1rem;

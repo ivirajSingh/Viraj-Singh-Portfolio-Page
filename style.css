@@ -1567,7 +1567,9 @@ a{
 }
 
 .user-image{
-    padding: 2.5rem;
+   height: 20px;
+   width: 30px;
+    /* padding: 2.5rem; */
     filter: grayscale(1);
     transition: all 1s;
     animation: scaleimage 5s linear infinite;

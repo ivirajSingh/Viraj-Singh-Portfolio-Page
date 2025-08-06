@@ -1432,7 +1432,7 @@ a{
    display: flex;
     font-size: 18px;
     font-weight: 600;
-    margin-left: -1rem;
+    margin-left: 1rem;
 }
 
 .nav-items{

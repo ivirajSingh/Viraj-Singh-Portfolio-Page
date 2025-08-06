@@ -1410,7 +1410,7 @@ a{
 }
 
 .container{
-    width: 120px;
+    width: 100%;
     margin: 0, auto;
    
 }
@@ -1465,7 +1465,6 @@ a{
 
 .hero-sec{
     display: flex;
-    flex-wrap: nowrap;
     flex-direction: column;
     position: relative;
     justify-content: center;
@@ -1715,7 +1714,7 @@ a{
  }
 
  .project-container{
-    max-width: 1200px;
+    max-width: 100%;
     margin: 0 auto;
     padding: 3rem 0;
     display: flex;

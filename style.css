@@ -1411,7 +1411,7 @@ a{
 
 .container{
     width: 100%;
-    margin: 0, auto;
+    margin: 0, 2px;
    
 }
 
@@ -1431,12 +1431,12 @@ a{
 }
 
 .logo img{
-    height: 4rem;
+    height: 3rem;
 }
 
 .logo-text{
    display: flex;
-    font-size: 24px;
+    font-size: 18px;
     font-weight: 600;
     margin-left: -1rem;
 }
@@ -1448,7 +1448,7 @@ a{
 }
 
 .nav-items div{
-    font-size: 20px;
+    font-size: 16px;
     font-weight: 500;
     cursor: pointer;
 }

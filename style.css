@@ -1419,7 +1419,7 @@ a{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    /* padding-top: 1rem; */
+    padding-top: 1rem;
     margin-left: 3rem;
     gap: 10px;
 }
@@ -1714,7 +1714,7 @@ a{
  }
 
  .project-container{
-    width: 100%;
+    max-width: 1200px;
     margin: 0 auto;
     padding: 3rem 0;
     display: flex;

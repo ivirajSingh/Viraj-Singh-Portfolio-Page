@@ -1406,13 +1406,16 @@ a{
 }
 
 .container{
-    /* width: 100%;   */
+    width: 100%;  
     margin: 0, auto;
 }
 
 .navbar{
     display: flex;
-   
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 1rem;
+    margin-left: 3rem;
 }
 
 .logo-container{
@@ -1422,7 +1425,7 @@ a{
 }
 
 .logo img{
-    height: 3rem;
+    height: 2rem;
 }
 
 .logo-text{
@@ -1439,7 +1442,7 @@ a{
 }
 
 .nav-items div{
-    font-size: 16px;
+    font-size: 14px;
     font-weight: 500;
     cursor: pointer;
 }

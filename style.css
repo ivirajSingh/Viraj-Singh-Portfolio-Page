@@ -1406,13 +1406,12 @@ a{
 .wrapper{
     height: 100vh;
     overflow-y: auto;
+    overflow-x: hidden;
     
 }
 
 .container{
-    width: 100%;
-    
-   
+    width: 100%;  
 }
 
 .navbar{

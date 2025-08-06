@@ -1410,8 +1410,8 @@ a{
 }
 
 .container{
-    width: 100%;
-    margin: 0, 2px;
+    width: 120px;
+    margin: 0, auto;
    
 }
 

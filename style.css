@@ -1395,7 +1395,7 @@ a{
 
 
  /* Media query */
- @media screen and (max-width: 400px) {
+ @media screen and (max-width: 412px) and (min-width:360px) {
    body{
    overflow-x: hidden;
 }

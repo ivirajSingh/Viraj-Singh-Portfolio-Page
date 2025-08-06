@@ -1430,11 +1430,11 @@ a{
 }
 
 .logo img{
-    height: 6rem;
+    height: 4rem;
 }
 
 .logo-text{
-    font-size: 28px;
+    font-size: 24px;
     font-weight: 600;
     margin-left: -1rem;
 }
@@ -1551,6 +1551,7 @@ a{
     flex-direction: column;
     justify-content: center;
     gap: 2rem;
+    order: 2;
 }
 
 .role{
@@ -2255,6 +2256,7 @@ a{
     position: relative;
     margin-right: -4rem;
     margin-top: -1rem;
+    order: 1;
 }
 
 .absolute{

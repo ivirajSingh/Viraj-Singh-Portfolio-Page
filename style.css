@@ -1394,10 +1394,6 @@ a{
  }
 
 
-
-
-
-
  /* Media query */
  @media screen and (max-width: 412px) {
    body{
@@ -1406,6 +1402,7 @@ a{
 .wrapper{
     height: 100vh;
     overflow-y: auto;
+    overflow-x: hidden;
 }
 
 .container{

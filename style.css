@@ -1414,7 +1414,7 @@ a{
 .navbar{
    overflow-x: hidden;
     display: flex;
-    width: 100px;
+    width: 10px;
     justify-content: space-between;
     align-items: center;
     padding-top: 1rem;

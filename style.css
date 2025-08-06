@@ -1423,7 +1423,7 @@ a{
     flex-direction: row;
     justify-content: baseline;
     align-items: center;
-    margin-left: -1rem;
+    margin-left: -2rem;
 }
 
 .logo img{

@@ -1417,6 +1417,7 @@ a{
     justify-content: space-between;
     align-items: center;
     padding-top: 1rem;
+    margin-left: -1rem;
 }
 
 .logo-container{

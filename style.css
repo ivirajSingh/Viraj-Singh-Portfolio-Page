@@ -1420,18 +1420,20 @@ a{
 
 .logo-container{
     display: flex;
+    flex-direction: row;
     justify-content: baseline;
     align-items: center;
+    margin-left: -1rem;
 }
 
 .logo img{
-    height: 2rem;
+    height: 3rem;
 }
 
 .logo-text{
    display: flex;
    flex-direction: row;
-    font-size: 18px;
+    font-size: 12px;
     font-weight: 600;
 }
 

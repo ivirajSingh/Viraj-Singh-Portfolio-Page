@@ -1421,7 +1421,6 @@ a{
 .logo-container{
     display: flex;
     flex-direction: row;
-    justify-content: baseline;
     align-items: center;
     margin-left: -4rem;
 }
@@ -1431,10 +1430,11 @@ a{
 }
 
 .logo-text{
-   display: flex;
-    font-size: 12px;
-    font-weight: 600;
-    margin-left: 1px;
+   gap: 20px;            
+   align-items: center;
+   font-size: 12px;
+   font-weight: 600;
+   margin-left: 1px;
 }
 
 .nav-items{

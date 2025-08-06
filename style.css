@@ -1438,7 +1438,6 @@ a{
 
 .nav-items{
     display: flex;
-    gap: 2rem;
     padding: 0 4rem;
 }
 
